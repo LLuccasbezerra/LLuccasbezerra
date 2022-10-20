@@ -8,9 +8,6 @@ Perfil no Trailhead
 <br/>
 [![Trailhead](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)](https://trailblazer.me/id/llima39)
 
-<br/>
-
-![Luccas GitHub stats](https://github-readme-stats.vercel.app/api?username=LLuccasbezerra&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
